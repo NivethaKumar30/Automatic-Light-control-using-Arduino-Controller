@@ -64,6 +64,10 @@ LDR Features of LDR are as follows:
 
 ## PROGRAM:
 ```
+NAME:NIVETHA.K
+REG NO: 212222230102
+```
+```
 int sensorPin = A0; 
 int sensorValue = 0; 
 void setup() 
