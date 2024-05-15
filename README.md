@@ -92,4 +92,4 @@ void loop()
 ## OUTPUT:
 ![Screenshot 2024-03-18 113404](https://github.com/NivethaKumar30/Automatic-Light-control-using-Arduino-Controller/assets/119559844/953d62c3-8c9d-49c6-b6cb-d5edf7aaf65e)
 
- RESULT:Thus the automatic light controller was designed and simulated using LDR and Arduino UNO controller.
+## RESULT:Thus the automatic light controller was designed and simulated using LDR and Arduino UNO controller.
